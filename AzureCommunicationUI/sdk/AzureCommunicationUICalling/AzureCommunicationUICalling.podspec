@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.author               = 'Microsoft'
   spec.source               = { :git => 'https://github.com/souvickcse/communication-ui-library-ios.git', :branch => 'main' }
   spec.module_name          = 'AzureCommunicationUICalling'
-  spec.swift_version        = '5.8'
+  spec.swift_version        = '5.4'
 
   spec.platform             = :ios, '16.6'
 
